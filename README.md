@@ -53,23 +53,13 @@ The dataset includes:
 
 The Excel file contains an interactive dashboard with:
 
-* Sales by Category
-* Sales by Month
+* Top 5 Sales States
+* Orders vs Sales
 * Gender Distribution
-* Region-wise Performance
+* Order Channels
 
 ---
 
-## 📁 Project Structure
-
-```id="d8xk2a"
-store-data-analysis/
-│── store_data.xlsx     # Main Excel file
-│── visuals/            # Dashboard screenshots
-│── README.md
-```
-
----
 
 ## ▶️ How to Use
 
@@ -80,14 +70,6 @@ store-data-analysis/
    * Raw Data
    * Pivot Tables
    * Dashboard
-
----
-
-## 📌 Key Insights
-
-* 📌 Majority of sales come from specific categories
-* 📌 Sales peak during certain months
-* 📌 One customer segment contributes more to revenue
 
 ---
 
